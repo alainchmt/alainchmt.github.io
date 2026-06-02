@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher in Mathematics at the
- <a href="https://www.mathematics.uni-bonn.de/hcm" target="_blank">University of Bonn</a>.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: alain.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    midff@math.uni-bonn.de
+    a.chavarri.villarello@vu.nl
   #address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -22,10 +21,8 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am María Inés, a postdoctoral researcher at the University of Bonn, working in the workgroup on Formal Mathematics led by <a href="https://florisvandoorn.com/" target="_blank">Floris van Doorn</a>. Previously, I worked as a Margarita Salas Postdoctoral Researcher at Universidad Autónoma de Madrid (with <a href="https://sites.google.com/site/danielmaciascastillo" target="_blank">Daniel Macias Castillo</a>) and as a Research Associate at Imperial College London, in <a href="https://www.imperial.ac.uk/people/k.buzzard" target="_blank">Kevin Buzzard</a>'s research group. Before joining Imperial College, I worked as an Assistant Professor (Profesor Ayudante Doctor) at Universidad Nebrija. I earned my PhD in Mathematics from Boston University in 2020, under the supervision of <a href="https://sites.google.com/view/jared-weinstein/home" target="_blank">Jared Weinstein</a>.
+I am currently a PhD candidate in the Department of Mathematics at [Vrije Universiteit Amsterdam](https://vu.nl/en/research/scientists/alain-chavarri-villarello), working under the supervision of [Sander Dahmen](https://www.few.vu.nl/~sdn249/). My research focuses on the formalization of computational algebraic number theory. In 2025, I was awarded the [KWG PhD Prize](https://www.wiskgenoot.nl/index.php?page=28&sid=2) of the Royal Dutch Mathematical Society. 
 
-My main research interests are mathematical formalization and number theory.
+My mathematical interests include formal methods, algebraic number theory, elliptic curves, and post-quantum cryptography. Before starting my PhD, I completed a master’s degree in mathematics at [Vrije Universiteit Amsterdam](https://vu.nl/en) and a bachelor’s degree in applied mathematics at [Instituto Tecnológico Autónomo de México (ITAM)](https://www.itam.mx/), graduating cum laude from both. 
 
-Here is my <a href="/assets/pdf/CV_Maria_Ines_de_Frutos_Fernandez.pdf" target="_blank">CV</a>.
-
-Last updated: 17 February 2026.
+Recently, as formalization and AI become increasingly intertwined, I’ve also become interested in the interaction between mathematics, technology, and society, including matters of political economy and the impact of automation on mathematical research and beyond.  
