@@ -8,7 +8,7 @@ profile:
   align: right
   image: alain.jpg
   image_circular: false # crops the image to make it circular
-  width: 400px
+  width: 500px
   address: >
     a.chavarri.villarello@vu.nl
   #address: >
