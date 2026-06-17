@@ -1,26 +1,25 @@
-/* Profile picture sizing and responsiveness */
-.profile {
-  max-width: 500px; /* desired visual width on desktop */
+.post .profile {
+  width: 50% !important;  /* was max-width — that's why it didn't work */
 }
-.profile img {
-  width: 100%;
-  height: auto;
+
+.post .profile img {
+  width: 100% !important;
+  height: auto !important;
   display: block;
 }
 
-/* Spacing for floated profiles */
 .profile.float-right {
   margin-left: 1rem;
 }
+
 .profile.float-left {
   margin-right: 1rem;
 }
 
-/* Smaller screens: full width and stacked layout */
 @media (max-width: 576px) {
   .profile {
     float: none !important;
-    max-width: 95vw;
+    width: 95vw !important;
     margin: 0 auto 1rem;
   }
 }
