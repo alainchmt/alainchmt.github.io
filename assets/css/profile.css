@@ -1,0 +1,26 @@
+/* Profile picture sizing and responsiveness */
+.profile {
+  max-width: 340px; /* desired visual width on desktop */
+}
+.profile img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Spacing for floated profiles */
+.profile.float-right {
+  margin-left: 1rem;
+}
+.profile.float-left {
+  margin-right: 1rem;
+}
+
+/* Smaller screens: full width and stacked layout */
+@media (max-width: 576px) {
+  .profile {
+    float: none !important;
+    max-width: 95vw;
+    margin: 0 auto 1rem;
+  }
+}
