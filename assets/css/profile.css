@@ -1,5 +1,5 @@
 .post .profile {
-  width: 50% !important;  /* was max-width — that's why it didn't work */
+  width: 40% !important;  /* was max-width — that's why it didn't work */
 }
 
 .post .profile img {
