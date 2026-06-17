@@ -1,6 +1,6 @@
 /* Profile picture sizing and responsiveness */
 .profile {
-  max-width: 340px; /* desired visual width on desktop */
+  max-width: 500px; /* desired visual width on desktop */
 }
 .profile img {
   width: 100%;
