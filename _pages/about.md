@@ -26,4 +26,6 @@ I am currently a PhD candidate in the Department of Mathematics at [Vrije Univer
 
 My mathematical interests include formalization, algebraic number theory, elliptic curves, and post-quantum cryptography. Before starting my PhD, I completed a master's degree in mathematics at [Vrije Universiteit Amsterdam](https://vu.nl/en) and a bachelor's degree in applied mathematics at [Instituto Tecnológico Autónomo de México (ITAM)](https://www.itam.mx/), both *cum laude*.
 
-Recently, as formalization and AI become increasingly intertwined, I’ve grown interested in the interaction between mathematics, technology, and society, including matters of political economy and the impact of automation on mathematical research and beyond. I was part of the working group that wrote the [Leiden Declaration on AI and Mathematics](https://leidendeclaration.ai/). 
+Recently, as formalization and AI become increasingly intertwined, I’ve grown interested in the interaction between mathematics, technology, and society, including the impact of automation on mathematical research and beyond. I was part of the working group that wrote the [Leiden Declaration on AI and Mathematics](https://leidendeclaration.ai/). 
+
+The best way to contact me is via email: a.chavarri.villarello@vu.nl
