@@ -33,9 +33,10 @@
   year: 2025
   sort_date: 2025-12-01
   speaker: true
+  role: Lecturer
   dates: December 1 - 12, 2025
   location: University of Galway, Ireland
-  talk_title: 'Formal mathematics in Lean: Where we are and where we are going (as one of the lecturers)'
+  talk_title: 'Formal mathematics in Lean: Where we are and where we are going'
 
 - title: DIAMANT Symposium
   year: 2025
@@ -61,7 +62,7 @@
   location: University of Amsterdam, Netherlands
   talk_title: Certifying computations in algebraic number theory with Lean (invited talk)
 
-- title: Mechanization and Mathematical Research
+- title: Workshop 'Mechanization and Mathematical Research'
   year: 2025
   sort_date: 2025-09-15
   speaker: false
@@ -102,7 +103,7 @@
   note: won the PhD Prize
   talk_title: Machine-Checked number theory
 
-- title: Certified Programs and Proofs
+- title: CPP Conference
   year: 2025
   sort_date: 2025-01-20
   speaker: true
@@ -188,7 +189,7 @@
   dates: November 23 - 24, 2023
   location: Eindhoven, Netherlands
 
-- title: Interactive Theorem Proving
+- title: ITP Conference
   year: 2023
   sort_date: 2023-07-31
   speaker: false

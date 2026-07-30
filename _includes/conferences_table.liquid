@@ -4,7 +4,7 @@
   <ul>
     {% assign sorted_items = group.items | sort: "sort_date" | reverse %}
     {% for entry in sorted_items %}
-      <li>{{ entry.title }} {{ entry.year }}{% if entry.speaker %} <strong>({% if entry.invited %}Invited {% endif %}{% if entry.online %}Online {% endif %}Speaker)</strong>{% elsif entry.poster %} <strong>(Poster)</strong>{% endif %}{% if entry.dates %}, {{ entry.dates }}{% endif %}{% if entry.location %}, {{ entry.location }}{% endif %}{% if entry.note %} &mdash; {{ entry.note }}{% endif %}</li>
+      <li>{{ entry.title }}{% if entry.speaker %} <strong>({% if entry.role %}{{ entry.role }}{% else %}{% if entry.invited %}Invited {% endif %}{% if entry.online %}Online {% endif %}Speaker{% endif %})</strong>{% elsif entry.poster %} <strong>(Poster)</strong>{% endif %}{% if entry.dates %}, {{ entry.dates }}{% endif %}{% if entry.location %}, {{ entry.location }}{% endif %}{% if entry.note %} &mdash; {{ entry.note }}{% endif %}</li>
     {% endfor %}
   </ul>
 {% endfor %}
