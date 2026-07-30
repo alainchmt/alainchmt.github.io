@@ -16,6 +16,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-conferences",
+          title: "Conferences",
+          description: "List of formalization and number theory events that I&#39;ve attended.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/conferences/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
