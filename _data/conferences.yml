@@ -1,0 +1,225 @@
+# Add one entry per conference, workshop, or seminar you have attended.
+# Set `speaker: true` if you gave a talk there.
+# `dates` and `location` are optional; when set they are appended to the line.
+# `talk_title` is not shown on the page, it is kept here just for your own reference.
+# `sort_date` (YYYY-MM-DD, use the start date) drives ordering within a year block; keep it in sync with `dates`.
+
+- title: ANTS XVII (Algorithmic Number Theory Symposium)
+  year: 2026
+  sort_date: 2026-07-06
+  speaker: false
+  dates: July 6 - 10, 2026
+  location: Bernoulli Institute, University of Groningen, Netherlands
+
+- title: Bridging Lean and the LMFDB
+  year: 2026
+  sort_date: 2026-06-29
+  speaker: true
+  invited: true
+  dates: June 29 - July 3, 2026
+  location: University of East Anglia, Norwich, UK
+  talk_title: Formally Certifying LMFDB Number Field Data (invited talk)
+
+- title: Informal Formalization Seminar
+  year: 2026
+  sort_date: 2026-06-19
+  speaker: true
+  invited: true
+  dates: June 19, 2026
+  location: VU Amsterdam, Netherlands
+  talk_title: Certifying invariants of number fields in Lean (invited talk)
+
+- title: COGENT Winter School
+  year: 2025
+  sort_date: 2025-12-01
+  speaker: true
+  dates: December 1 - 12, 2025
+  location: University of Galway, Ireland
+  talk_title: 'Formal mathematics in Lean: Where we are and where we are going (as one of the lecturers)'
+
+- title: DIAMANT symposium (Autumn 2025)
+  year: 2025
+  sort_date: 2025-11-20
+  speaker: false
+  dates: November 20 - 21, 2025
+  location: De Werelt, Lunteren, Netherlands
+
+- title: VU PhD Seminar
+  year: 2025
+  sort_date: 2025-11-01
+  speaker: true
+  dates: November 2025
+  location: VU Amsterdam, Netherlands
+  talk_title: The future of mathematics in the era of AI
+
+- title: UvA Lean Seminar
+  year: 2025
+  sort_date: 2025-11-01
+  speaker: true
+  invited: true
+  dates: November 2025
+  location: University of Amsterdam, Netherlands
+  talk_title: Certifying computations in algebraic number theory with Lean (invited talk)
+
+- title: Mechanization and Mathematical Research
+  year: 2025
+  sort_date: 2025-09-15
+  speaker: false
+  dates: September 15 - 19, 2025
+  location: Lorentz Center@Omega, Leiden, Netherlands
+
+- title: Journées Arithmétiques 2025 (33rd edition)
+  year: 2025
+  sort_date: 2025-06-30
+  speaker: true
+  dates: June 30 - July 4, 2025
+  location: Esch-sur-Alzette, Luxembourg
+  talk_title: Formally certifying computations in algebraic number theory
+
+- title: 'Big Proof 3: formalizing mathematics at scale'
+  year: 2025
+  sort_date: 2025-06-09
+  speaker: false
+  dates: June 9 - 13, 2025
+  location: Isaac Newton Institute, Cambridge, UK
+
+- title: Groningen Algebra Seminar
+  year: 2025
+  sort_date: 2025-05-13
+  speaker: true
+  invited: true
+  dates: May 13, 2025
+  location: Groningen, Netherlands
+  talk_title: Formally certifying arithmetic invariants of number fields (invited talk)
+
+- title: Nederlands Mathematisch Congres (NMC) 2025
+  year: 2025
+  sort_date: 2025-04-22
+  speaker: true
+  invited: true
+  dates: April 22 - 23, 2025
+  location: Soesterberg, Netherlands
+  note: won the PhD Prize
+  talk_title: Machine-Checked number theory
+
+- title: CPP 2025
+  year: 2025
+  sort_date: 2025-01-20
+  speaker: true
+  online: true
+  dates: January 20 - 21, 2025
+  location: Denver, USA
+  talk_title: Certifying rings of integers in number fields
+
+- title: VU PhD Seminar
+  year: 2024
+  sort_date: 2024-12-01
+  speaker: true
+  dates: December 2024
+  location: VU Amsterdam, Netherlands
+  talk_title: Trust, Numbers and Machines
+
+- title: DIAMANT symposium (Autumn 2024)
+  year: 2024
+  sort_date: 2024-11-21
+  speaker: true
+  dates: November 21 - 22, 2024
+  location: De Werelt, Lunteren, Netherlands
+  talk_title: Formally certifying rings of integers
+
+- title: VU Research Fair
+  year: 2024
+  sort_date: 2024-11-01
+  speaker: false
+  poster: true
+  dates: November 2024
+  location: VU Amsterdam, Netherlands
+  talk_title: Poster presentation
+
+- title: ANTS XVI (Algorithmic Number Theory Symposium)
+  year: 2024
+  sort_date: 2024-07-15
+  speaker: false
+  dates: July 15 - 19, 2024
+  location: MIT, Cambridge, MA, USA
+
+- title: Workshop 'Bridging between informal and formal'
+  year: 2024
+  sort_date: 2024-07-08
+  speaker: true
+  dates: July 8 - 12, 2024
+  location: Hausdorff Institute for Mathematics, Bonn, Germany
+  talk_title: Case Studies in computational number theory (with Sander)
+
+- title: Workshop 'Formalization of mathematics'
+  year: 2024
+  sort_date: 2024-06-17
+  speaker: false
+  dates: June 17 - 21, 2024
+  location: Hausdorff Institute for Mathematics, Bonn, Germany
+
+- title: DIAMANT symposium (Spring 2024)
+  year: 2024
+  sort_date: 2024-04-11
+  speaker: false
+  dates: April 11, 2024
+  location: Utrecht, Netherlands
+
+- title: Nederlands Mathematisch Congres (NMC) 2024
+  year: 2024
+  sort_date: 2024-04-02
+  speaker: false
+  dates: April 2 - 3, 2024
+  location: Lunteren, Netherlands
+
+- title: Informal Formalization Seminar
+  year: 2024
+  sort_date: 2024-01-19
+  speaker: true
+  invited: true
+  dates: January 19, 2024
+  location: Utrecht, Netherlands
+  talk_title: Formally certifying rings of integers in Lean (invited talk)
+
+- title: DIAMANT symposium (Autumn 2023)
+  year: 2023
+  sort_date: 2023-11-23
+  speaker: false
+  dates: November 23 - 24, 2023
+  location: Eindhoven, Netherlands
+
+- title: ITP 2023
+  year: 2023
+  sort_date: 2023-07-31
+  speaker: false
+  dates: July 31 - August 4, 2023
+  location: Białystok, Poland
+
+- title: Workshop 'Machine-Checked Mathematics'
+  year: 2023
+  sort_date: 2023-07-01
+  speaker: false
+  dates: July 2023
+  location: Leiden, Netherlands
+
+- title: DIAMANT symposium (Spring 2023)
+  year: 2023
+  sort_date: 2023-04-13
+  speaker: false
+  dates: April 13, 2023
+  location: Utrecht, Netherlands
+
+- title: VU PhD Seminar
+  year: 2023
+  sort_date: 2023-03-01
+  speaker: true
+  dates: March 2023
+  location: VU Amsterdam, Netherlands
+  talk_title: Formalizing mathematics in Lean
+
+- title: DIAMANT symposium (Autumn 2022)
+  year: 2022
+  sort_date: 2022-11-24
+  speaker: false
+  dates: November 24 - 25, 2022
+  location: Leiden, Netherlands

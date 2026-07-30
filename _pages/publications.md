@@ -22,6 +22,15 @@ nav_order: 1
 
 ---
 
+# Preprints
+<div class="publications">
+
+{%- bibliography -f preprints -%}
+
+</div>
+
+---
+
 # Other Writing
 <div class="publications">
 

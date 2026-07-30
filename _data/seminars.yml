@@ -1,0 +1,11 @@
+# Recurring / informal seminar series you attend regularly.
+# Any specific talk you gave at one of these belongs in conferences.yml instead,
+# under the corresponding year. This list just names the series and links to it.
+
+- title: Informal Formalization Seminar
+  link: https://jcommelin.github.io/informal-formalization-seminar/
+
+- title: VU PhD Seminar
+
+- title: Number Theory Intercity Seminar
+  link: https://www.icntseminar.nl/
