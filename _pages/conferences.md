@@ -7,11 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<div class="card mt-3 p-3">
-  {% include conferences_table.liquid %}
-</div>
+{% include conferences_table.liquid %}
 
-<div class="card mt-3 p-3">
-  <h5 class="card-title font-weight-bold">Regular Seminars</h5>
-  {% include seminars_list.liquid %}
-</div>
+## Regular Seminars
+{% include seminars_list.liquid %}
