@@ -3,6 +3,7 @@
 # `dates` and `location` are optional; when set they are appended to the line.
 # `talk_title` is not shown on the page, it is kept here just for your own reference.
 # `sort_date` (YYYY-MM-DD, use the start date) drives ordering within a year block; keep it in sync with `dates`.
+# `slides` is optional; give a filename stored in assets/pdf/ (or a full URL) to show a linked "(slides)" after the entry.
 
 - title: Algorithmic Number Theory Symposium XVII
   year: 2026
@@ -19,6 +20,7 @@
   dates: June 29 - July 3, 2026
   location: University of East Anglia, Norwich, UK
   talk_title: Formally Certifying LMFDB Number Field Data (invited talk)
+  slides: CertifyingNFData.pdf
 
 - title: Informal Formalization Seminar
   year: 2026
@@ -76,6 +78,7 @@
   dates: June 30 - July 4, 2025
   location: Esch-sur-Alzette, Luxembourg
   talk_title: Formally certifying computations in algebraic number theory
+  slides: JAtalk.pdf
 
 - title: 'Big Proof 3: Formalizing Mathematics at Scale'
   year: 2025
